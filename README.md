@@ -82,6 +82,51 @@ A user-friendly design in a booking system ensures:
 
 ---
 
+### **Color Styles**
+Here are the primary colors for the project:
+
+- **Primary Color**: #FF5A5F (Airbnb red/pink)
+- **Secondary Color**: #008489 (Teal for accents)
+- **Background Color**: #F7F7F7 (Light gray for overall background)
+- **Text Color**: #484848 (Dark gray for text)
+- **Button Color**: #FF385C (Slightly brighter shade for call-to-action buttons)
+
+---
+
+### **Typography**
+The following typography styles will be used throughout the application:
+
+- **Font Family**: 
+  - Primary: `Circular`, `Arial`, `sans-serif` (Airbnb's font)
+  - Fallback: `Roboto`, `Helvetica`, `sans-serif`
+
+- **Font Weights**:
+  - **Light**: 300 (e.g., secondary text or labels)
+  - **Regular**: 400 (e.g., body text)
+  - **Bold**: 700 (e.g., headings and call-to-action text)
+
+- **Font Sizes**:
+  - **Heading (H1)**: 32px
+  - **Subheading (H2)**: 24px
+  - **Body Text**: 16px
+  - **Labels/Small Text**: 14px
+
+---
+
+### **Importance of Identifying Design Properties**
+Identifying and defining design properties, such as colors, typography, and spacing, is crucial in the UI/UX design process for several reasons:
+
+1. **Consistency**: Ensures that the visual elements maintain a unified look and feel across all pages and components.
+2. **Efficiency**: Speeds up the development process by providing clear guidelines for developers to follow.
+3. **Brand Identity**: Reinforces the platform’s brand by using recognizable colors, fonts, and design styles.
+4. **User Experience**: Makes the interface intuitive and visually appealing, which helps users complete tasks easily.
+5. **Collaboration**: Provides a common reference for designers, developers, and stakeholders, minimizing misunderstandings.
+
+---
+
+### **Summary**
+By defining and adhering to these design properties, the Airbnb Clone Project aims to deliver a user-friendly, visually cohesive, and professional-looking platform.
+
 ## 🚀 Getting Started
 
 1. **Clone the Repository:**
