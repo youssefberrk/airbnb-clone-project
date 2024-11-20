@@ -49,6 +49,38 @@ The project leverages the following technologies:
 - **GitHub**: As the repository hosting platform.
 
 ---
+## 🖌️ UI/UX Design Planning
+
+The user interface and experience are critical for creating an engaging and functional booking platform. This section outlines the design goals, key features, and descriptions of the primary pages.
+
+### **Design Goals**
+1. **Simplicity and Clarity**: Ensure users can navigate the site with ease.
+2. **Responsive Design**: Provide an optimal experience across devices (mobile, tablet, desktop).
+3. **Fast and Accessible**: Ensure quick loading times and compliance with accessibility standards (e.g., WCAG).
+4. **Intuitive Flow**: Guide users seamlessly through the property search and booking process.
+
+### **Key Features**
+- **Search Functionality**: Allow users to search properties by location, date, and price range.
+- **Visual Appeal**: Use high-quality images and modern design elements.
+- **User Feedback**: Include error messages, tooltips, and confirmations to improve the experience.
+
+### **Primary Pages**
+
+| **Page Name**            | **Description**                                                                                     | **Key Elements**                                                                                      |
+|---------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Property Listing View** | Displays a list of properties based on user search or default location.                           | Property thumbnails, title, price, location, and filters (e.g., price range, date, guest count).     |
+| **Listing Detailed View** | Provides detailed information about a specific property.                                           | Large images, property description, amenities, reviews, price breakdown, and "Book Now" button.      |
+| **Simple Checkout View**  | Simplifies the booking process for users after selecting a property.                               | Form for personal details, payment options, booking summary, and confirmation button.                |
+
+### **Importance of a User-Friendly Design**
+A user-friendly design in a booking system ensures:
+1. **Ease of Use**: Reduces the cognitive load on users, making it easier for them to find and book properties.
+2. **Increased Engagement**: A well-designed interface keeps users on the platform longer.
+3. **Conversion Rate Optimization**: Intuitive flows and clear calls-to-action (e.g., "Book Now") encourage users to complete bookings.
+4. **Accessibility**: Ensures inclusivity by catering to users with varying abilities and devices.
+5. **Trustworthiness**: A polished UI instills confidence in the platform's reliability and security.
+
+---
 
 ## 🚀 Getting Started
 
